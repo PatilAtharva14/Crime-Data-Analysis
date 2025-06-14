@@ -1,4 +1,4 @@
-# Crime-Data-Analysis
+ # Crime-Data-Analysis
 Crime Data Analysis is a data science project focused on analyzing crime records in India. Using Python's data manipulation and visualization libraries (Pandas, NumPy, Matplotlib), this project loads and processes The Crime Data Analysis project is aimed at analyzing and visualizing crime data in India to derive meaningful insights that can assist policymakers, law enforcement agencies, researchers, and data science enthusiasts. The project uses a publicly available dataset (or institution-provided dataset) that contains detailed information on various crime types reported across different regions of India.
 
 Using Python and its powerful data science libraries, this project demonstrates how raw crime data can be cleaned, analyzed, and visualized to extract valuable information and identify patterns that might not be immediately visible from raw numbers.
